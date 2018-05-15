@@ -15,7 +15,7 @@ namespace TestForms
 
             DataModel dm = new DataModel();
 
-            // dm.Example = "The property has been set";
+            dm.Example = "The property has been set";
 
             if (dm.Example == null)
             {
